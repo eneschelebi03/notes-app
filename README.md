@@ -1,16 +1,62 @@
-# mp_project
+# Notes App
 
-A new Flutter project.
+A simple and intuitive mobile application built using Flutter. This app allows users to add, view, and manage their notes locally.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new notes
+- View a list of saved notes
+- Simple and easy-to-use interface
+- Local data storage using SQLite
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+(Include screenshots of the app here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. **Install dependencies:**
+
+Make sure you have Flutter installed on your machine. You can check [Flutter's official documentation](https://flutter.dev/docs/get-started/install) for installation steps.
+
+Once Flutter is installed, run the following command to install the project dependencies:
+
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**
+
+Use the command below to run the app on an emulator or a physical device:
+
+   ```bash
+   flutter run
+   ```
+
+## Tech Stack
+
+- **Flutter** - UI framework
+- **Dart** - Programming language
+- **SQLite** - Local database
+
+## Contributing
+
+Contributions are welcome! Feel free to open a pull request or raise an issue.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
